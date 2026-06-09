@@ -1,0 +1,24 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backups locais
+*.bak
+*.backup
+*_backup.json
+
+# Configurações com credenciais reais
+config.local.html
+.env
+.env.local
+
+# Logs
+*.log
