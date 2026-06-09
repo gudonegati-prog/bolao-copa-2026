@@ -145,4 +145,4 @@ MIT — sinta-se livre para adaptar e usar no seu próprio bolão!
 
 ---
 
-**Feito com ⚽ por [Gustavo Negati](https://github.com/seu-usuario)**
+**Feito com ⚽ por [Gustavo Donegati]((https://github.com/gudonegati-prog))**
